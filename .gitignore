@@ -1,5 +1,6 @@
 # Ignore data folder
 data
 
-# Ignore checkpoints
+# Ignore checkpoints and cache
 notebooks/.ipynb_checkpoints
+notebooks/__pycache__
